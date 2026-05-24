@@ -1,1 +1,1 @@
-This repository contains AI Agents related artifacts.
+This repository contains Agentic AI related artifacts.
